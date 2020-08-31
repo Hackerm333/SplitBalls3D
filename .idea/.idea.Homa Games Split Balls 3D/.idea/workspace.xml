@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cbd60d9-2b06-446b-9d87-a2e58638c6a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC2876E8-FF0B-42A2-A2A1-1B51F2B23C8A/f5/3b93ca72/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Test AnotheReality/Santa-s-Deliveroo/Santa-s-Deliveroo/Assets/Scripts/UI/Timer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Homa Games Split Balls 3D - ORIGINAL BACKUP/Assets/_Duplicator/Scripts/Controllers/CameraRootController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Managers/ServicesManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Views/HomeViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Managers/IngameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Views/ReviveViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Controllers/CameraRootController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Views/EndGameViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Controllers/BallContainerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Duplicator/Scripts/Controllers/BallController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Self_Illumin_Diffuse.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Gradient Background.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Others/PlayerPrefsKey.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/SplitterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Controllers/SplitterTextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Views/ViewManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SoundManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Views/PlayingViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/IngameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/TimeManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1glarY0dWmpLoA2Lb5SIXD1lcnC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="145" key="SettingsEditor" timestamp="1598804112629">
+      <screen x="0" y="0" width="1428" height="1000" />
+    </state>
+    <state x="217" y="145" key="SettingsEditor/0.0.1428.1000@0.0.1428.1000" timestamp="1598804112629" />
+    <state x="384" y="99" width="660" height="801" key="find.popup" timestamp="1598778418563">
+      <screen x="0" y="0" width="1428" height="1000" />
+    </state>
+    <state x="384" y="99" width="660" height="801" key="find.popup/0.0.1428.1000@0.0.1428.1000" timestamp="1598778418563" />
+    <state x="489" y="375" width="619" height="426" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598804110448">
+      <screen x="0" y="0" width="1428" height="1000" />
+    </state>
+    <state x="489" y="375" width="619" height="426" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1428.1000@0.0.1428.1000" timestamp="1598804110448" />
+    <state x="379" y="218" width="672" height="678" key="search.everywhere.popup" timestamp="1598781209548">
+      <screen x="0" y="0" width="1428" height="1000" />
+    </state>
+    <state x="379" y="218" width="672" height="678" key="search.everywhere.popup/0.0.1428.1000@0.0.1428.1000" timestamp="1598781209548" />
+  </component>
+</project>
